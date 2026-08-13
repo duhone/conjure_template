@@ -1,8 +1,0 @@
-{
-    "pipelines" : [
-            {
-                "name" : "sprite",
-                "compute_shader" : "sprite_compute"
-            }
-        ]
-}
